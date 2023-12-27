@@ -9,7 +9,7 @@
   },
   "main": "src/index.js",
   "engines": {
-    "node": "14"
+    "node": "20"
   },
   "scripts": {
     "start": "npm run start:pro",
